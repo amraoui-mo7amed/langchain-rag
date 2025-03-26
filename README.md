@@ -2,20 +2,16 @@
 
 This project implements a Retrieval-Augmented Generation (RAG) system using LangChain, designed to answer user questions based on provided scientific articles. The system is divided into two main components:
 
-## Jupyter Notebook Backend
-[Add your explanation about the notebook backend here]
+**Jupyter Notebook Backend:** Holds the main code along side the  API
 
-## ReactJS Frontend
-[Add your explanation about the frontend here]
-
-The ReactJS application serves as the user interface, communicating with the RAG API endpoints exposed by the Jupyter notebook backend.
+**ReactJS Frontend:** The ReactJS application serves as the user interface, communicating with the RAG API endpoints exposed by the Jupyter notebook backend.
 
 ## Setup and Activation
 
 1. Clone the repository:
    ```bash
-   git clone [repository-url]
-   cd [repository-name]
+   git clone https://github.com/amraoui-mo7amed/langchain-rag
+   cd langchain-rag
    ```
 
 2. Create a virtual environment:
